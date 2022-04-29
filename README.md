@@ -46,13 +46,11 @@ python converted_CIFAR100_vgg.py
 If you use this code in your work, please cite the following paper, please cite it using
 
 ```
-@misc{li2022efficient,
+@article{li2022efficient,
       title={Efficient and Accurate Conversion of Spiking Neural Network with Burst Spikes}, 
       author={Yang Li and Yi Zeng},
+      journal={arXiv preprint arXiv:2204.13271},
       year={2022},
-      eprint={2204.13271},
-      archivePrefix={arXiv},
-      primaryClass={cs.NE}
 }
 ```
 
